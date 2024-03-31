@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import "primeicons/primeicons.css";
+
+#app {
+  @apply overflow-hidden;
+  width: 100vw;
+  height: 100vh;
+}
