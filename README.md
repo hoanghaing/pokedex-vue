@@ -2,7 +2,9 @@
 # Vue 3 + TypeScript + Vite
 
 This project is toy project to build pokemon list demo
-
+- Using Pinia to sync state between to big component.
+- PrimeVue to reduce cost of implementing so much css styling.
+At first i'm trying to apply Tailwind into this project but it seems waste of time than using PrimeVue
 ## Recommended Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
